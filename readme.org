@@ -1,0 +1,25 @@
+* Bhāṣā
+
+A pattern repository for spatio-temporal languages.
+
+** Rationale
+   
+Communication between two entities is mediated by a language. This
+language could take the form of temporally sequenced frequencies
+uttered by taking turns (as in the case of humans), pattern
+descriptions in space (in the case of bees), or holes on a punchcard
+(spatially distributed pattern). All these share a common basis of
+being regularities distributed across either time or space.
+
+This library is an attempt at identifying, collecting, and curating
+such patterns that occur in our day to day work in graphics,
+animation, and user interface design which we think will find it's
+relevance across other forms of languages.
+
+[[https://rawgithub.com/prathyvsh/bhasa/master/lang.png]]
+
+** Taxonomy Abstractions
+   
+** Modalities
+
+** Research
